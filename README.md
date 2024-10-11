@@ -13,13 +13,14 @@ The script is simple, first look for a class with name "rq1ph" and execute a cli
 
 4.- Paste this script and press "enter":
 
+```markdown
 setInterval(function() {
                 const link = document.querySelector('.rq1ph a');
                 if (link) {
                     link.click();
                 }
             }, 200); //in milliseconds.
-            
+```
 5.- Enjoy.
 
 NOTE: The timer defaults to 200, but you can change it if you wish.
