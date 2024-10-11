@@ -1,5 +1,5 @@
 # songster-plus
-Script for any browser for songster.com
+Script for any browser for songsterr.com
 
 This script is to avoid the annoying popup that the page emits, allowing you to enjoy the tabs without problems.
 
